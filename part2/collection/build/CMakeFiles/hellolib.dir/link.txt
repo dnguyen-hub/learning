@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.0 -dynamiclib -Wl,-headerpad_max_install_names -o libhellolib.dylib -install_name @rpath/libhellolib.dylib CMakeFiles/hellolib.dir/src/hello.cpp.o
