@@ -9,7 +9,7 @@
   outputs = { self, nixpkgs }:
   let
     hello_lib_overlay = final: prev: {
-        hello = final.callPackage ./hellolib.nix { };
+        hello = final.callPackage ./default.nix { };
   
     };
     my_overlays = [hello_lib_overlay];
