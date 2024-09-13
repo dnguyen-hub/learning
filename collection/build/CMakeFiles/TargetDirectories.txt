@@ -1,7 +1,0 @@
-/Users/dereknguyen/hytech_dir/software-onboarding-2025/DerekNgu/lab2/part2/collection/build/CMakeFiles/hellolib.dir
-/Users/dereknguyen/hytech_dir/software-onboarding-2025/DerekNgu/lab2/part2/collection/build/CMakeFiles/edit_cache.dir
-/Users/dereknguyen/hytech_dir/software-onboarding-2025/DerekNgu/lab2/part2/collection/build/CMakeFiles/rebuild_cache.dir
-/Users/dereknguyen/hytech_dir/software-onboarding-2025/DerekNgu/lab2/part2/collection/build/CMakeFiles/list_install_components.dir
-/Users/dereknguyen/hytech_dir/software-onboarding-2025/DerekNgu/lab2/part2/collection/build/CMakeFiles/install.dir
-/Users/dereknguyen/hytech_dir/software-onboarding-2025/DerekNgu/lab2/part2/collection/build/CMakeFiles/install/local.dir
-/Users/dereknguyen/hytech_dir/software-onboarding-2025/DerekNgu/lab2/part2/collection/build/CMakeFiles/install/strip.dir
